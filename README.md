@@ -86,23 +86,47 @@
 ### General
 
 * *[Clean Code, Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)*
+* *Test Driven Development by example, Kent Beck*
+* *Test-Driven Java Development, Viktor Farcic, Alex Garcia*
+
+#### Solid Concepts
+
+* *[Single Responsability](https://academy.realm.io/posts/donn-felker-solid-part-1/)*
+* *[Open Closed Principle[ (https://academy.realm.io/posts/donn-felker-solid-part-2/)*
+* *[The Liskov Substitution Principle](https://academy.realm.io/posts/donn-felker-solid-part-3/)*
+* *[Interface Segregation](https://academy.realm.io/posts/donn-felker-solid-part-4/)*
+* *[Dependency Inversion Principle](https://academy.realm.io/posts/donn-felker-solid-part-5/)*
 
 ### Android
 
 #### Android Components
 
+* *[Dialogs and Dialogs Fragments](https://github.com/codepath/android_guides/wiki/Using-DialogFragment)*
 * *[Services](https://developer.android.com/guide/components/services)*
 * *[Intent Services](https://developer.android.com/training/run-background-service/create-service)* 
 * *[Broadcast](https://developer.android.com/guide/components/broadcasts)* 
 * *[Alarm Manager](https://developer.android.com/training/scheduling/alarmshttps://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter)*
 
-#### Views
+#### Build System
+* *[Gradle Build System](https://developer.android.com/studio/build/)*
+* *[Dependencies](https://developer.android.com/studio/build/dependencies)*
+* *[Build Variants](https://developer.android.com/studio/build/build-variants)*
+* *[Proguard](https://developer.android.com/studio/build/shrink-code?hl=en)*
+* *[Multidex](https://developer.android.com/studio/build/multidex?hl=en-419)*
 
+#### Layout and Views
+
+* *[Coordinator Layout](https://github.com/codepath/android_guides/wiki/Handling-Scrolls-with-CoordinatorLayout)*
 * *[Audio and video Overview](https://developer.android.com/guide/topics/media/)*
 * *[Media Player](https://developer.android.com/guide/topics/media/mediaplayer)*
 * *[VideoView](https://github.com/codepath/android_guides/wiki/Video-Playback-and-Recording)*
 * *[YoutubePlayerView](https://github.com/codepath/android_guides/wiki/Streaming-Youtube-Videos-with-YouTubePlayerView)*
 * *[Google Maps](https://github.com/codepath/android_guides/wiki/Google-Maps-API-v2-Usage)*
+* *[Endless Scroll](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView)*
+* *[Pull to refresh](https://github.com/codepath/android_guides/wiki/Implementing-Pull-to-Refresh-Guide)*
+* *[BottomNavigationView](https://developer.android.com/reference/android/support/design/widget/BottomNavigationView)*
+* *[More About Menus](https://github.com/codepath/android_guides/wiki/Menus-and-Popups)*
+* *[Gestures And Touch](https://github.com/codepath/android_guides/wiki/Gestures-and-Touch-Events)*
 
 #### Sensors
 
@@ -129,6 +153,91 @@
 * *[Firebase Cloud Messaging IV](https://firebase.google.com/docs/cloud-messaging/android/receive)*
 * *[Notifications](https://github.com/codepath/android_guides/wiki/Notifications)* 
 * *[SyncAdapter](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter))*
+
+#### Testing
+
+* *[Introduction](https://github.com/codepath/android_guides/wiki/Android-Testing-Options)*
+* *[Roboelectric](https://github.com/codepath/android_guides/wiki/Unit-Testing-with-Robolectric)*
+* *[Espresso](https://github.com/codepath/android_guides/wiki/UI-Testing-with-Espresso)*
+* *[Roboelectric](https://github.com/codepath/android_guides/wiki/Unit-Testing-with-Robolectric)*
+
+## Level 3
+
+### General
+
+* *[Clean Architecture, Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)*
+* *Test Driven Development by example, Kent Beck*
+* *Test-Driven Java Development, Viktor Farcic, Alex Garcia*
+* *[MVP](https://hackernoon.com/basics-of-mvp-the-android-way-f75da407019d)*
+* *[The MVC, MVP, and MVVM](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/)*
+* *RxJava for Android App Development, K. Matt Dupree*
+* *[RX tutorial](https://www.pluralsight.com/courses/rxandroid-kotlin-reactive-programming)*
+* *[RX tutorial](https://www.pluralsight.com/courses/rxandroid-kotlin-reactive-programming)*
+* *[Functional on Android: Lambdas, Rx, and Streams in Your App](https://academy.realm.io/posts/mobilization-eric-kok-functional-android-lambdas-rx-streams-app/)*
+
+### Android
+
+#### Android Components
+
+* *[Dialogs and Dialogs Fragments](https://github.com/codepath/android_guides/wiki/Using-DialogFragment)*
+* *[Services](https://developer.android.com/guide/components/services)*
+* *[Intent Services](https://developer.android.com/training/run-background-service/create-service)* 
+* *[Broadcast](https://developer.android.com/guide/components/broadcasts)* 
+* *[Alarm Manager](https://developer.android.com/training/scheduling/alarmshttps://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter)*
+
+#### Build System
+* *[Gradle Build System](https://developer.android.com/studio/build/)*
+* *[Dependencies](https://developer.android.com/studio/build/dependencies)*
+* *[Build Variants](https://developer.android.com/studio/build/build-variants)*
+* *[Proguard](https://developer.android.com/studio/build/shrink-code?hl=en)*
+* *[Multidex](https://developer.android.com/studio/build/multidex?hl=en-419)*
+
+#### Layout and Views
+
+* *[Coordinator Layout](https://github.com/codepath/android_guides/wiki/Handling-Scrolls-with-CoordinatorLayout)*
+* *[Audio and video Overview](https://developer.android.com/guide/topics/media/)*
+* *[Media Player](https://developer.android.com/guide/topics/media/mediaplayer)*
+* *[VideoView](https://github.com/codepath/android_guides/wiki/Video-Playback-and-Recording)*
+* *[YoutubePlayerView](https://github.com/codepath/android_guides/wiki/Streaming-Youtube-Videos-with-YouTubePlayerView)*
+* *[Google Maps](https://github.com/codepath/android_guides/wiki/Google-Maps-API-v2-Usage)*
+* *[Endless Scroll](https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView)*
+* *[Pull to refresh](https://github.com/codepath/android_guides/wiki/Implementing-Pull-to-Refresh-Guide)*
+* *[BottomNavigationView](https://developer.android.com/reference/android/support/design/widget/BottomNavigationView)*
+* *[More About Menus](https://github.com/codepath/android_guides/wiki/Menus-and-Popups)*
+* *[Gestures And Touch](https://github.com/codepath/android_guides/wiki/Gestures-and-Touch-Events)*
+
+#### Sensors
+
+* *[Camera](https://github.com/codepath/android_guides/wiki/Accessing-the-Camera-and-Stored-Media)*
+* *[Location](https://github.com/codepath/android_guides/wiki/Retrieving-Location-with-LocationServices-API)*
+* *[Other Sensors](https://github.com/codepath/android_guides/wiki/Listening-to-Sensors-using-SensorManager)*
+* *[Bluetooth](https://developer.android.com/guide/topics/connectivity/bluetooth?hl=en)*
+* *[BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le)*
+* *[Wifi peer to peer](https://developer.android.com/guide/topics/connectivity/wifip2p)*
+
+#### Persistence
+
+* *[Content Providers](https://github.com/codepath/android_guides/wiki/Creating-Content-Providers)*
+* *[Room](https://github.com/codepath/android_guides/wiki/Room-Guide)*
+* *[Realm](https://realm.io/docs/java/latest/)*
+
+#### Services And Networking
+
+* *[Async Task Loader](https://developer.android.com/reference/android/content/AsyncTaskLoader)*
+* *[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/android/client)*
+* *[Firebase Cloud Messaging II](https://firebase.google.com/docs/cloud-messaging/android/first-message)*
+* *[Firebase Cloud Messaging III](https://firebase.google.com/docs/cloud-messaging/android/send-multiple)*
+* *[Firebase Cloud Messaging IV](https://firebase.google.com/docs/cloud-messaging/android/receive)*
+* *[Firebase Cloud Messaging IV](https://firebase.google.com/docs/cloud-messaging/android/receive)*
+* *[Notifications](https://github.com/codepath/android_guides/wiki/Notifications)* 
+* *[SyncAdapter](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter))*
+
+#### Testing
+
+* *[Introduction](https://github.com/codepath/android_guides/wiki/Android-Testing-Options)*
+* *[Roboelectric](https://github.com/codepath/android_guides/wiki/Unit-Testing-with-Robolectric)*
+* *[Espresso](https://github.com/codepath/android_guides/wiki/UI-Testing-with-Espresso)*
+* *[Roboelectric](https://github.com/codepath/android_guides/wiki/Unit-Testing-with-Robolectric)*
 
 
 
