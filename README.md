@@ -10,6 +10,7 @@
 * *The Pragmatic Programmer, Andy Hunt y Dave Thomas* 
 * *[Kotlin](https://kotlinlang.org/docs/reference/android-overview.html)*
 * *[Kotlin for android](https://github.com/codepath/android_guides/wiki/Using-Kotlin-for-Android-development)*
+* *[Mobile Application Architecture](https://docs.google.com/presentation/d/1KQHSp7aJkR_P3zH02ipYajP40mbCsuWTDLoeNUfALeo/edit#slide=id.gf44ff138_00)*
 
 ### Android
 
@@ -30,6 +31,7 @@
 * *[Permissions II](https://github.com/codepath/android_guides/wiki/Managing-Runtime-Permissions-with-PermissionsDispatcher)* 
 
 #### Layouts and Views
+
 * *[Constructing View Layouts](https://github.com/codepath/android_guides/wiki/Constructing-View-Layouts)* 
 * *[Views and their Attributes](https://github.com/codepath/android_guides/wiki/Defining-Views-and-their-Attributes)* 
 * *[TextViews](https://github.com/codepath/android_guides/wiki/Working-with-the-TextView)* 
@@ -53,6 +55,7 @@
 * *[AppCompat](https://developer.android.com/topic/libraries/support-library/features?hl=es-419)*
 
 #### Resources
+
 * *[Drawables](https://github.com/codepath/android_guides/wiki/Drawables)*
 * *[Styles and Themes](https://github.com/codepath/android_guides/wiki/Styles-and-Themes)*
 * *[Material Design](https://github.com/codepath/android_guides/wiki/Material-Design-Primer)*
@@ -82,6 +85,8 @@
 
 ### General
 
+* *[Clean Code, Robert C. Martin](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf)*
+
 ### Android
 
 #### Android Components
@@ -91,7 +96,16 @@
 * *[Broadcast](https://developer.android.com/guide/components/broadcasts)* 
 * *[Alarm Manager](https://developer.android.com/training/scheduling/alarmshttps://github.com/codepath/android_guides/wiki/ViewPager-with-FragmentPagerAdapter)*
 
+#### Views
+
+* *[Audio and video Overview](https://developer.android.com/guide/topics/media/)*
+* *[Media Player](https://developer.android.com/guide/topics/media/mediaplayer)*
+* *[VideoView](https://github.com/codepath/android_guides/wiki/Video-Playback-and-Recording)*
+* *[YoutubePlayerView](https://github.com/codepath/android_guides/wiki/Streaming-Youtube-Videos-with-YouTubePlayerView)*
+* *[Google Maps](https://github.com/codepath/android_guides/wiki/Google-Maps-API-v2-Usage)*
+
 #### Sensors
+
 * *[Camera](https://github.com/codepath/android_guides/wiki/Accessing-the-Camera-and-Stored-Media)*
 * *[Location](https://github.com/codepath/android_guides/wiki/Retrieving-Location-with-LocationServices-API)*
 * *[Other Sensors](https://github.com/codepath/android_guides/wiki/Listening-to-Sensors-using-SensorManager)*
@@ -100,11 +114,13 @@
 * *[Wifi peer to peer](https://developer.android.com/guide/topics/connectivity/wifip2p)*
 
 #### Persistence
+
 * *[Content Providers](https://github.com/codepath/android_guides/wiki/Creating-Content-Providers)*
 * *[Room](https://github.com/codepath/android_guides/wiki/Room-Guide)*
 * *[Realm](https://realm.io/docs/java/latest/)*
 
 #### Services And Networking
+
 * *[Async Task Loader](https://developer.android.com/reference/android/content/AsyncTaskLoader)*
 * *[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/android/client)*
 * *[Firebase Cloud Messaging II](https://firebase.google.com/docs/cloud-messaging/android/first-message)*
@@ -113,6 +129,7 @@
 * *[Firebase Cloud Messaging IV](https://firebase.google.com/docs/cloud-messaging/android/receive)*
 * *[Notifications](https://github.com/codepath/android_guides/wiki/Notifications)* 
 * *[SyncAdapter](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter))*
+
 
 
 
