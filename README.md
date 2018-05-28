@@ -91,7 +91,7 @@
 #### Solid Concepts
 
 * *[Single Responsability](https://academy.realm.io/posts/donn-felker-solid-part-1/)*
-* *[Open Closed Principle[ (https://academy.realm.io/posts/donn-felker-solid-part-2/)*
+* *[Open Closed Principle] (https://academy.realm.io/posts/donn-felker-solid-part-2/)*
 * *[The Liskov Substitution Principle](https://academy.realm.io/posts/donn-felker-solid-part-3/)*
 * *[Interface Segregation](https://academy.realm.io/posts/donn-felker-solid-part-4/)*
 * *[Dependency Inversion Principle](https://academy.realm.io/posts/donn-felker-solid-part-5/)*
@@ -145,6 +145,7 @@
 
 #### Services And Networking
 
+* *[SyncAdapter](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter))*
 * *[Async Task Loader](https://developer.android.com/reference/android/content/AsyncTaskLoader)*
 * *[Firebase Cloud Messaging](https://firebase.google.com/docs/cloud-messaging/android/client)*
 * *[Firebase Cloud Messaging II](https://firebase.google.com/docs/cloud-messaging/android/first-message)*
@@ -152,7 +153,6 @@
 * *[Firebase Cloud Messaging IV](https://firebase.google.com/docs/cloud-messaging/android/receive)*
 * *[Firebase Cloud Messaging IV](https://firebase.google.com/docs/cloud-messaging/android/receive)*
 * *[Notifications](https://github.com/codepath/android_guides/wiki/Notifications)* 
-* *[SyncAdapter](https://github.com/codepath/android_guides/wiki/Server-Synchronization-(SyncAdapter))*
 
 #### Testing
 
@@ -170,7 +170,6 @@
 * *[MVP](https://hackernoon.com/basics-of-mvp-the-android-way-f75da407019d)*
 * *[The MVC, MVP, and MVVM](https://academy.realm.io/posts/eric-maxwell-mvc-mvp-and-mvvm-on-android/)*
 * *RxJava for Android App Development, K. Matt Dupree*
-* *[RX tutorial](https://www.pluralsight.com/courses/rxandroid-kotlin-reactive-programming)*
 * *[RX tutorial](https://www.pluralsight.com/courses/rxandroid-kotlin-reactive-programming)*
 * *[Functional on Android: Lambdas, Rx, and Streams in Your App](https://academy.realm.io/posts/mobilization-eric-kok-functional-android-lambdas-rx-streams-app/)*
 * *[Dagger2 and dependency injection](https://google.github.io/dagger/)*
